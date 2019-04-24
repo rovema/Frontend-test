@@ -2,7 +2,7 @@
 Somos uma empresa que atua em vários segmentos de mercado, com diferentes tecnologias, culturas e desafios. Por isso, gostamos de compor nossos times com profissionais multidisciplinares, que tenham alta capacidade de aprendizado, sejam detalhistas, resiliêntes, questionadores e curiosos. Você, como **Frontend Developer**, será o responsável por implementar, dar manutenção, aplicar correções e propor soluções em projetos de software, sempre buscando a melhor composição de tecnologias para cada cenário.
 
 ## Orientações
-Para executar o desafio de **Frontend Developer**, você **poderá utilizar alguma framework Frontend (Angular, VueJS, React, EmberJS)** que for **confortável para você**, seguindo o [passo-a-passo](https://github.com/rovema/frontend-test#etapas) para a execução, atendendo aos [critérios de aceitação](https://github.com/rovema/frontend-test#crit%C3%A9rios-de-aceita%C3%A7%C3%A3o).
+Para executar o desafio de **Frontend Developer**, você **deverá utilizar alguma framework Frontend (Angular, VueJS, React, EmberJS)** que for **confortável para você**, seguindo o [passo-a-passo](https://github.com/rovema/frontend-test#etapas) para a execução, atendendo aos [critérios de aceitação](https://github.com/rovema/frontend-test#crit%C3%A9rios-de-aceita%C3%A7%C3%A3o).
 
 ## Desafio
 Nossa equipe é apaixonada por **Rick and Morty**, assim, o seu desafio será criar uma aplicação utilizando a API pública da série [https://rickandmortyapi.com/](https://rickandmortyapi.com/), para exibir a lista de  personagens. Veja a documentação [https://rickandmortyapi.com/documentation/#rest](https://rickandmortyapi.com/documentation/#rest).
