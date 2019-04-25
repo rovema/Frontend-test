@@ -59,7 +59,7 @@ Para que seu teste tenha o mínimo necessário que atenda aos requisitos esperad
 
 #### O que não gostaríamos de ver no seu teste:
 - Saber que não foi você quem implementou.
-- Processos manuais de inicialização da aplicação e banco de dados.
+- Processos manuais de inicialização da aplicação e build-scripts.
 - Falta de organização de código.
 - Falta de documentação.
 - Histórico de commits desorganizado e despadronizado.
